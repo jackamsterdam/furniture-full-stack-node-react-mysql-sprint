@@ -1,0 +1,10 @@
+.FurnituresList > table {
+	margin: 10px auto;
+    font-size: x-large;
+    
+}
+
+.FurnituresList table, .FurnituresList th, .FurnituresList td {
+    border: 1px solid black;
+  
+}
